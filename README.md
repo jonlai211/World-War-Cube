@@ -1,5 +1,7 @@
 #### Game Specification: World War Cube
 
+[![Bilibili](https://img.shields.io/badge/Bilibili-%E6%92%AD%E6%94%BE%E5%9C%B0%E5%9D%80-red)](https://www.bilibili.com/video/BV1Sx4y1n7TA)
+
 #### 1. Overview
 
 **Title:** World War Cube  
